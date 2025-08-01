@@ -1,0 +1,50 @@
+PRECIOUS ADEDOKUN  
+Full-Stack Developer (Strong Backend Focus)  
+Email: admin@preciousadedokun.com.ng | apreezofficial@gmail.com  
+Phone: +2349064779856  
+Portfolio: preciousadedokun.com.ng  
+GitHub: github.com/apreezofficial  
+
+----------------------------------------------------------------------
+PROFILE
+----------------------------------------------------------------------
+Experienced full-stack developer specializing in backend development with strong skills in frontend technologies. Passionate about building scalable, secure, and efficient web applications with clean code and modern best practices.
+
+----------------------------------------------------------------------
+SKILLS
+----------------------------------------------------------------------
+- Backend: PHP, MySQL, Node.js  
+- Frontend: HTML, CSS, JavaScript, React.js, Vue.js, Tailwind CSS  
+- Frameworks: Laravel, Express.js  
+- Database: MySQL, PostgreSQL  
+- Tools & Tech: REST APIs, Git, Docker, API Integration, Linux CLI  
+- Other: Responsive design, MVC architecture, Authentication & Authorization  
+
+----------------------------------------------------------------------
+TOP PROJECTS
+----------------------------------------------------------------------
+- E-commerce Shopping Site: Full-featured shopping platform with user accounts, cart, and payment integration  
+- Blog Site: Dynamic blog platform with CMS capabilities and SEO optimizations  
+- School Management System: Web app for managing students, teachers, classes, and exams  
+- Many more custom-built projects demonstrating backend logic, database design, and frontend interactivity  
+
+----------------------------------------------------------------------
+EXPERIENCE
+----------------------------------------------------------------------
+Freelance Full-Stack Developer  
+2020 – Present  
+- Designed and built scalable backend services and APIs  
+- Created responsive frontend user interfaces  
+- Delivered end-to-end web solutions for clients across various industries  
+- Maintained, debugged, and optimized existing systems  
+
+----------------------------------------------------------------------
+EDUCATION & CERTIFICATIONS
+----------------------------------------------------------------------
+Shepherd International College (2019 - 2024)  
+Front-End Development Certificate – Udemy (2024)  
+
+----------------------------------------------------------------------
+REFERENCES
+----------------------------------------------------------------------
+Available upon request.

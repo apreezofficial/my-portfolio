@@ -1,0 +1,10 @@
+# robots.txt for preciousadedokun.com.ng
+
+User-agent: *
+Disallow: /admin/
+
+
+Allow: /
+
+Sitemap: https://preciousadedokun.com.ng/sitemap.xml
+Host: https://preciousadedokun.com.ng

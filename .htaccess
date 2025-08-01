@@ -1,0 +1,15 @@
+RewriteEngine On
+RewriteBase /
+
+# Hide .php extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^/]+)$ $1.php [L]
+
+# Route /projects to projects.php
+RewriteRule ^projects/?$ projects.php [L]
+RewriteRule ^github/?$ github.php [L]
+RewriteRule ^pricing/?$ pricing.php [L]
+# Route /projects/ID to projects.php?id=ID
+RewriteRule ^projects/([0-9]+)$ projects.php?id=$1 [L,QSA]
+ErrorDocument 404 /404.php
